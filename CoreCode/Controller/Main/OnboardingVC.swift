@@ -1,9 +1,4 @@
 //
-//  OnboardingVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 22/10/21.
-//
 
 import UIKit
 import AdvancedPageControl
@@ -27,9 +22,9 @@ class OnboardingVC: BaseVC {
     let reuseIdentifier = "BoardingCell"
 
     var arrOnboarding = [
-        OnboardingObject(image: #imageLiteral(resourceName: "onboarding_bg"), gifName: "onboarding_first", title: "Welcome to Prospuh", description: "Get signed up in minutes, make trades in seconds"),
+        OnboardingObject(image: #imageLiteral(resourceName: "onboarding_bg"), gifName: "onboarding_first", title: "Welcome to projectName", description: "Get signed up in minutes, make trades in seconds"),
         OnboardingObject(image: #imageLiteral(resourceName: "onboarding_bg"), gifName: "onboarding_second", title: "Invest From $5", description: "You can buy as little as 0.00001 shares with a minimum of $5. Now you can support companies you believe in and own them"),
-        OnboardingObject(image: #imageLiteral(resourceName: "onboarding_bg"), gifName: "onboarding_third", title: "Safety you Deserve", description: "Prospuh and its partners are regulated. Your account is protected for up to USD 500,000 by the SIPC"),
+        OnboardingObject(image: #imageLiteral(resourceName: "onboarding_bg"), gifName: "onboarding_third", title: "Safety you Deserve", description: "projectName and its partners are regulated. Your account is protected for up to USD 500,000 by the SIPC"),
     ]
     
     var currentPage: Int = 0

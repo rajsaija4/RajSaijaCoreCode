@@ -1,8 +1,5 @@
 //
-//  FundsBalancesVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 29/03/22.
+e on 29/03/22.
 //
 
 import UIKit
@@ -95,7 +92,7 @@ class FundsBalancesVC: BaseVC {
         self.lblBuyingDesc.text = "The money you have available to buy securities."
         
         self.lblUnsettledValue.text = "$" + "0.0"
-        self.lblUnsettledDesc.text = "They are funds that simply haven't cleared yet. As a good rule of thumb, unsettled funds in Prospuh will take between 3 and 5 business days to settle."
+        self.lblUnsettledDesc.text = "They are funds that simply haven't cleared yet. As a good rule of thumb, unsettled funds in  will take between 3 and 5 business days to settle."
         
         self.lblWithdrawalValue.text = "$" + convertThousand(value: withdrawableCash)
     }

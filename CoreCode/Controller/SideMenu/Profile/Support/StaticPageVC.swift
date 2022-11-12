@@ -1,9 +1,5 @@
 //
 //  StaticPageVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 17/01/22.
-//
 
 import UIKit
 import WebKit

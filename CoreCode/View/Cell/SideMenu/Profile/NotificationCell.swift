@@ -1,8 +1,8 @@
 //
 //  NotificationCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 31/12/21.
+//  companyName on 31/12/21.
 //
 
 import UIKit

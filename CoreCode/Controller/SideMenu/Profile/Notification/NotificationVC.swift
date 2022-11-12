@@ -1,9 +1,5 @@
 //
 //  NotificationVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 31/12/21.
-//
 
 import UIKit
 import SwiftyJSON

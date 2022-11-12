@@ -1,8 +1,8 @@
 //
 //  MarketStockCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 30/11/21.
+//  companyName on 30/11/21.
 //
 
 import UIKit

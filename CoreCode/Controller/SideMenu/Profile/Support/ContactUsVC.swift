@@ -1,9 +1,5 @@
 //
 //  ContactUsVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 23/03/22.
-//
 
 import UIKit
 import CountryPickerView

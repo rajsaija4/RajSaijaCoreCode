@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Prospuh</string>
+	<string>projectName</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Prospuh</string>
+	<string>appname</string>
 	<key>CFBundlePackageType</key>
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
 	<key>CFBundleShortVersionString</key>
@@ -30,17 +30,17 @@
 		<true/>
 	</dict>
 	<key>NSAppleMusicUsageDescription</key>
-	<string>Prospuh needs permission to select picture for upload document</string>
+	<string>needs permission to select picture for upload document</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Prospuh needs permission to capture picture for upload document</string>
+	<string>needs permission to capture picture for upload document</string>
 	<key>NSFaceIDUsageDescription</key>
-	<string>Prospuh needs permission to unlock the application</string>
+	<string>needs permission to unlock the application</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Prospuh needs microphone access to record audio</string>
+	<string>needs microphone access to record audio</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Prospuh needs photo gallery access to save QR code image</string>
+	<string>needs photo gallery access to save QR code image</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Prospuh needs permission to select picture for upload document</string>
+	<string>needs permission to select picture for upload document</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>ARLRDBD.TTF</string>

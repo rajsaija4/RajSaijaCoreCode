@@ -1,8 +1,8 @@
 //
 //  Platform+Color.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 10/11/21.
+//  companyName on 10/11/21.
 //
 
 #if canImport(UIKit)

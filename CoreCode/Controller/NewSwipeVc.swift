@@ -1,9 +1,4 @@
 //
-//  NewSwipeVc.swift
-//  Prospuh
-//
-//  Created by RAJ J SAIJA on 27/09/22.
-//
 
 import UIKit
 import SwiftyJSON

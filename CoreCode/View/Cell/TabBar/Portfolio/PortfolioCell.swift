@@ -1,9 +1,5 @@
 //
 //  PortfolioCell.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 08/12/21.
-//
 
 import UIKit
 

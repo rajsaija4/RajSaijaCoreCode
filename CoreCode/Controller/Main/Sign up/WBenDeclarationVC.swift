@@ -1,9 +1,4 @@
 //
-//  WBenDeclarationVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 12/01/22.
-//
 
 import UIKit
 import SwiftyJSON

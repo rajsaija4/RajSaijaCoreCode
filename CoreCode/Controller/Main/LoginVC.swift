@@ -1,9 +1,3 @@
-//
-//  LoginVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 25/10/21.
-//
 
 import UIKit
 import SwiftyJSON

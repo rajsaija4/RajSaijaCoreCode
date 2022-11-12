@@ -1,8 +1,8 @@
 //
 //  Gif.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 02/03/22.
+//  companyName on 02/03/22.
 //
 
 import UIKit

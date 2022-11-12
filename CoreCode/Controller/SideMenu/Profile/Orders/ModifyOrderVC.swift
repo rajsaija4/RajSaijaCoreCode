@@ -1,9 +1,5 @@
 //
 //  ModifyOrderVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 25/04/22.
-//
 
 import UIKit
 import SwiftyJSON
@@ -414,7 +410,7 @@ class ModifyOrderVC: BaseVC {
         self.txtOrderTypeBuy.text = "market"
         
         if self.commissionValue != "" {
-            self.lblCommissionDescBuy.text = "Prospuh will charge $\(self.commissionValue) commission for every trade"
+            self.lblCommissionDescBuy.text = "projectName will charge $\(self.commissionValue) commission for every trade"
         }
         
         self.setupValidityBuyDropDown()
@@ -433,7 +429,7 @@ class ModifyOrderVC: BaseVC {
         self.txtOrderSell.text = "market"
         
         if self.commissionValue != "" {
-            self.lblCommissionDescSell.text = "Prospuh will charge $\(self.commissionValue) commission for every trade"
+            self.lblCommissionDescSell.text = "projectName will charge $\(self.commissionValue) commission for every trade"
         }
         
         self.setupValiditySellDropDown()
@@ -911,8 +907,8 @@ extension ModifyOrderVC {
                         if let payload = response["data"] as? Dictionary<String, Any> {
                             strongSelf.commissionValue = "\(payload["tradeCommission"] ?? "")"
                             
-                            strongSelf.lblCommissionDescBuy.text = "Prospuh will charge $\(strongSelf.commissionValue) commission for every trade"
-                            strongSelf.lblCommissionDescSell.text = "Prospuh will charge $\(strongSelf.commissionValue) commission for every trade"
+                            strongSelf.lblCommissionDescBuy.text = "projectName will charge $\(strongSelf.commissionValue) commission for every trade"
+                            strongSelf.lblCommissionDescSell.text = "projectName will charge $\(strongSelf.commissionValue) commission for every trade"
                         }
                     }
                     else if response["status"] as! Int == invalidTokenCode {

@@ -2,7 +2,7 @@
 //  Quentity.swift
 //  BYT
 //
-//  Created by 21Twelve Interactive on 26/10/21.
+//  companyName on 26/10/21.
 //
 
 import Foundation

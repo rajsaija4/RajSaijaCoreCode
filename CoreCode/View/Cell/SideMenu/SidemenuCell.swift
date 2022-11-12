@@ -1,8 +1,8 @@
 //
 //  SidemenuCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 09/11/21.
+//  companyName on 09/11/21.
 //
 
 import UIKit

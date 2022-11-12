@@ -1,8 +1,8 @@
 //
 //  ThingsCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 01/12/21.
+//  companyName on 01/12/21.
 //
 
 import UIKit

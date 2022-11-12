@@ -1,9 +1,6 @@
 //
 //  FundTypeVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 30/03/22.
-//
+
 
 import UIKit
 
@@ -61,7 +58,7 @@ class FundTypeVC: BaseVC {
         self.lblCard.textColor = UIColor.labelTextColor
         self.lblBank.textColor = UIColor.labelTextColor
                 
-        self.lblDepositDesc.attributedText = GlobalData.shared.convertStringtoAttributedText(strFirst: "If you wish to deposit more than $3,000+ please email us at" + " ", strFirstFont: UIFont.init(name: Constants.Font.YUGOTHIC_UI_REGULAR, size: self.lblDepositDesc.font.pointSize)!, strFirstColor: UIColor.labelTextColor, strSecond: "deposit@prospuh.com", strSecondFont: UIFont.init(name: Constants.Font.YUGOTHIC_UI_SEMIBOLD, size: self.lblDepositDesc.font.pointSize + 1)!, strSecondColor: UIColor.init(hex: 0x27B1FC))
+        self.lblDepositDesc.attributedText = GlobalData.shared.convertStringtoAttributedText(strFirst: "If you wish to deposit more than $3,000+ please email us at" + " ", strFirstFont: UIFont.init(name: Constants.Font.YUGOTHIC_UI_REGULAR, size: self.lblDepositDesc.font.pointSize)!, strFirstColor: UIColor.labelTextColor, strSecond: "deposit@.com", strSecondFont: UIFont.init(name: Constants.Font.YUGOTHIC_UI_SEMIBOLD, size: self.lblDepositDesc.font.pointSize + 1)!, strSecondColor: UIColor.init(hex: 0x27B1FC))
         
         if self.isFromAdd {
             self.lblTitle.text = "Add From"

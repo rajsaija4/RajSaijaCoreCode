@@ -1,8 +1,8 @@
 //
 //  BankObject.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 05/04/22.
+//  companyName on 05/04/22.
 //
 
 import Foundation

@@ -1,9 +1,4 @@
 //
-//  OrderTypeVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 31/01/22.
-//
 
 import UIKit
 import SwiftyJSON
@@ -69,7 +64,7 @@ class OrderTypeVC: BaseVC {
         
         if self.isFromBuy {
             self.arrOptions = [
-                OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_prospuh"), title: "Buy in Dollars", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
+                OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_projectName"), title: "Buy in Dollars", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "ic_buy_share"), title: "Buy in Shares", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_bank"), title: "Limit Order", description: "Lorem Ipsum is simply dummy text", orderType: "limit"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "trailing_stop_order"), title: "Trailing Stop Order", description: "Lorem Ipsum is simply dummy text", orderType: "trailing_stop"),
@@ -78,7 +73,7 @@ class OrderTypeVC: BaseVC {
             ]
         } else {
             self.arrOptions = [
-                OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_prospuh"), title: "Sell in Dollars", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
+                OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_projectName"), title: "Sell in Dollars", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "ic_buy_share"), title: "Sell in Shares", description: "Lorem Ipsum is simply dummy text", orderType: "market"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "ic_transfer_bank"), title: "Limit Order", description: "Lorem Ipsum is simply dummy text", orderType: "limit"),
                 OrderTypeOption(image: #imageLiteral(resourceName: "trailing_stop_order"), title: "Trailing Stop Order", description: "Lorem Ipsum is simply dummy text", orderType: "trailing_stop"),

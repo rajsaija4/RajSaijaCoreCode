@@ -1,9 +1,3 @@
-//
-//  BacktoLoginVC.swift
-//  Prospuh
-//
-//  Created by RAJ J SAIJA on 19/07/22.
-//
 
 import UIKit
 
@@ -18,7 +12,7 @@ class BacktoLoginVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        lblWelcome.text = "Welcome To Prospuh \(objUserDetail.givenName) ! "
+        lblWelcome.text = "Welcome To  \(objUserDetail.givenName) ! "
         // Do any additional setup after loading the view.
     }
     

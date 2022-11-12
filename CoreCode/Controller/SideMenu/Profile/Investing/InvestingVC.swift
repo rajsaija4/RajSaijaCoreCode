@@ -1,8 +1,4 @@
 //
-//  InvestingVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 03/01/22.
 //
 
 import UIKit

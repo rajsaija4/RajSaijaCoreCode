@@ -1,9 +1,5 @@
 //
-//  AddBankAccountVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 07/04/22.
-//
+
 
 import UIKit
 import DropDown

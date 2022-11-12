@@ -1,9 +1,5 @@
 //
 //  WebviewVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 30/12/21.
-//
 
 import UIKit
 import SwiftyJSON
@@ -111,7 +107,7 @@ class WebViewVC: BaseVC {
     func downloadDocumentFile(StrURL strURL: String) {
         let fileManager = FileManager.default
         if let tDocumentDirectory = fileManager.urls(for: .documentDirectory, in: .userDomainMask).first {
-            let filePath =   tDocumentDirectory.appendingPathComponent("Prospuh")
+            let filePath =   tDocumentDirectory.appendingPathComponent("projectName")
             
             let fileURL = URL(string: strURL)
             

@@ -1,9 +1,6 @@
 //
 //  CardListVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 30/03/22.
-//
+
 
 import UIKit
 import SwiftyJSON

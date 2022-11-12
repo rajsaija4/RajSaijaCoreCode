@@ -1,8 +1,4 @@
 //
-//  BuySellVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 22/11/21.
 //
 
 import UIKit
@@ -430,7 +426,7 @@ class BuySellVC: BaseVC {
         self.txtOrderTypeBuy.text = "market"
         
         if self.commissionValue != "" {
-            self.lblCommissionDescBuy.text = "Prospuh will charge $\(convertThousand(value: Double(self.commissionValue) ?? 0.0)) commission for every trade"
+            self.lblCommissionDescBuy.text = "projectName will charge $\(convertThousand(value: Double(self.commissionValue) ?? 0.0)) commission for every trade"
         }
         
         self.setupValidityBuyDropDown()
@@ -449,7 +445,7 @@ class BuySellVC: BaseVC {
         self.txtOrderSell.text = "market"
         
         if self.commissionValue != "" {
-            self.lblCommissionDescSell.text = "Prospuh will charge $\(convertThousand(value: Double(self.commissionValue) ?? 0.0)) commission for every trade"
+            self.lblCommissionDescSell.text = "projectName will charge $\(convertThousand(value: Double(self.commissionValue) ?? 0.0)) commission for every trade"
         }
         
         self.setupValiditySellDropDown()
@@ -996,8 +992,8 @@ extension BuySellVC {
                         if let payload = response["data"] as? Dictionary<String, Any> {
                             strongSelf.commissionValue = "\(payload["tradeCommission"] ?? "")"
                             
-                            strongSelf.lblCommissionDescBuy.text = "Prospuh will charge $\(convertThousand(value: Double(strongSelf.commissionValue) ?? 0.0)) commission for every trade"
-                            strongSelf.lblCommissionDescSell.text = "Prospuh will charge $\(convertThousand(value: Double(strongSelf.commissionValue) ?? 0.0)) commission for every trade"
+                            strongSelf.lblCommissionDescBuy.text = "projectName will charge $\(convertThousand(value: Double(strongSelf.commissionValue) ?? 0.0)) commission for every trade"
+                            strongSelf.lblCommissionDescSell.text = "projectName will charge $\(convertThousand(value: Double(strongSelf.commissionValue) ?? 0.0)) commission for every trade"
                         }
                     }
                     else if response["status"] as! Int == invalidTokenCode {

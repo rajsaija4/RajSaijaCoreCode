@@ -1,8 +1,8 @@
 //
 //  UserDetail.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 07/01/22.
+//  companyName on 07/01/22.
 //
 
 import UIKit

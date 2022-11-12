@@ -1,8 +1,8 @@
 //
 //  TransferObject.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 27/01/22.
+//  companyName on 27/01/22.
 //
 
 import Foundation

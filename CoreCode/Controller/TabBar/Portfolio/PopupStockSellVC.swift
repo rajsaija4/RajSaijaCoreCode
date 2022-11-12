@@ -1,10 +1,4 @@
 //
-//  PopupStockSellVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 09/12/21.
-//
-
 import UIKit
 import SwiftyJSON
 

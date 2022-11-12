@@ -1,8 +1,8 @@
 //
 //  SystemTheme.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 25/10/21.
+//  companyName on 25/10/21.
 //
 
 import Foundation

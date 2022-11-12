@@ -1,8 +1,5 @@
 //
 //  PopupAddStockWatchlistVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 18/04/22.
 //
 
 import UIKit

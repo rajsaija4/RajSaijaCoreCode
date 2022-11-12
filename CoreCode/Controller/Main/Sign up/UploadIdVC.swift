@@ -1,9 +1,5 @@
 //
-//  UploadIdVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 01/11/21.
-//
+
 
 import UIKit
 import Alamofire

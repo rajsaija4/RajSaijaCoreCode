@@ -1,8 +1,8 @@
 //
 //  OrdersCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 05/01/22.
+//  companyName on 05/01/22.
 //
 
 import UIKit

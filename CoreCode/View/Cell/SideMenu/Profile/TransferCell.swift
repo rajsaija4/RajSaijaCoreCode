@@ -1,8 +1,8 @@
 //
 //  TransferCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 04/01/22.
+//  companyName on 04/01/22.
 //
 
 import UIKit

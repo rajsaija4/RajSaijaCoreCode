@@ -1,9 +1,5 @@
 //
 //  SideMenuVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 09/11/21.
-//
 
 import UIKit
 import SideMenuSwift

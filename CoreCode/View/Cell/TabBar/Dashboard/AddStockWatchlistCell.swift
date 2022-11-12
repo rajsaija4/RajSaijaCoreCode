@@ -1,8 +1,8 @@
 //
 //  AddStockWatchlistCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 18/04/22.
+//  companyName on 18/04/22.
 //
 
 import UIKit

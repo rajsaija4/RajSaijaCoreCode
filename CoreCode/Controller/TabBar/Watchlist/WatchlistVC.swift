@@ -1,8 +1,4 @@
 //
-//  WatchlistVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 03/11/21.
 //
 
 import UIKit

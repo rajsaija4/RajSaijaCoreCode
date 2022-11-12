@@ -1,9 +1,5 @@
 //
 //  AddStockCell.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 24/01/22.
-//
 
 import UIKit
 

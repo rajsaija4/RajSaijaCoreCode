@@ -1,9 +1,4 @@
 //
-//  ThemeStockCell.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 07/12/21.
-//
 
 import UIKit
 

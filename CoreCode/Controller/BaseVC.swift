@@ -1,9 +1,3 @@
-//
-//  BaseVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 22/10/21.
-//
 
 import UIKit
 

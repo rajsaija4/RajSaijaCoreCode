@@ -1,9 +1,5 @@
 //
-//  SignupVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 27/10/21.
-//
+
 
 import UIKit
 import SwiftyJSON

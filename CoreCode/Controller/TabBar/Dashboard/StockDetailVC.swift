@@ -1,9 +1,4 @@
 //
-//  StockDetailVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 17/11/21.
-//
 
 import UIKit
 import SideMenuSwift

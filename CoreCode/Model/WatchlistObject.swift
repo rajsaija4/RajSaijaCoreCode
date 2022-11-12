@@ -1,8 +1,8 @@
 //
 //  WatchlistObject.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 21/01/22.
+//  companyName on 21/01/22.
 //
 
 import Foundation

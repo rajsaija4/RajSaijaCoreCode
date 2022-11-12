@@ -1,8 +1,5 @@
 //
 //  ReportCell.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 09/02/22.
 //
 
 import UIKit

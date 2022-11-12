@@ -1,8 +1,8 @@
 //
 //  SelfSizedCollectionView.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 22/10/21.
+//  companyName on 22/10/21.
 //
 
 import UIKit

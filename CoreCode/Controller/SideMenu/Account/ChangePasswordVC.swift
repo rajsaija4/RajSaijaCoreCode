@@ -1,9 +1,4 @@
 //
-//  ChangePasswordVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 28/12/21.
-//
 
 import UIKit
 import SwiftValidators

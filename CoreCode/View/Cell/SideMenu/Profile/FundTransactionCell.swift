@@ -1,8 +1,8 @@
 //
 //  FundTransactionCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 29/03/22.
+//  companyName on 29/03/22.
 //
 
 import UIKit

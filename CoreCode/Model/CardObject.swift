@@ -1,8 +1,8 @@
 //
 //  CardObject.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 30/03/22.
+//  companyName on 30/03/22.
 //
 
 import Foundation

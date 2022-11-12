@@ -1,8 +1,8 @@
 // 
 //  Constants.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 22/10/21.
+//  companyName on 22/10/21.
 //
 
 import UIKit
@@ -46,9 +46,9 @@ struct Constants {
     
     struct URLS {
         //URL
-        static let BASE_DOMAIN = "http://18.117.196.135"
-        static let BASE_URL = "http://18.117.196.135:2001/api/"
-        static let SOCKET_URL = "http://18.117.196.135:2001"
+        static let BASE_DOMAIN = "http:"
+        static let BASE_URL = "http://"
+        static let SOCKET_URL = "http://"
         
         static let SIGNUP = "auth/register"
         static let LOGIN = "auth/login"
@@ -211,7 +211,7 @@ enum REQUEST : Int {
 
 //MARK: - KEYS -
 
-let kAppName = "Prospuh"
+let kAppName = "projectName"
 let kDeviceType = "ios"
 var kInternetUnavailable = "Please check your internet connection and try again."
 var kNetworkError = "Sorry we are unable to connect with the server, please try again later"

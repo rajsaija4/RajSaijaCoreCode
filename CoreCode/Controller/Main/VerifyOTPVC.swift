@@ -1,9 +1,4 @@
-//
-//  VerifyOTPVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 28/10/21.
-//
+
 
 import UIKit
 import SwiftyJSON

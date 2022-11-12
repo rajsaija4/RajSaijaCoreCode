@@ -1,8 +1,5 @@
 //
 //  AxisValueFormatter.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 10/11/21.
 //
 
 import Foundation

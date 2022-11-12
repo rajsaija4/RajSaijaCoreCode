@@ -2,7 +2,7 @@
 //  ChartDataEntryBase.swift
 //  Soko
 //
-//  Created by 21Twelve Interactive on 07/09/21.
+//  companyName on 07/09/21.
 //
 
 import Foundation

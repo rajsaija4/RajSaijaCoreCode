@@ -1,9 +1,5 @@
 //
 //  AllHistoryVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 29/12/21.
-//
 
 import UIKit
 import SwiftyJSON

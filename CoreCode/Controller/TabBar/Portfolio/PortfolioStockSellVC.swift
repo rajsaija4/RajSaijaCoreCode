@@ -1,9 +1,5 @@
 //
 //  PortfolioStockSellVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 09/12/21.
-//
 
 import UIKit
 import SwiftyJSON
@@ -288,7 +284,7 @@ class PortfolioStockSellVC: BaseVC {
         self.txtOrderSell.text = "market"
         
         if self.commissionValue != "" {
-            self.lblCommissionDescSell.text = "Prospuh will charge $\(self.commissionValue) commission for every trade"
+            self.lblCommissionDescSell.text = "projectName will charge $\(self.commissionValue) commission for every trade"
         }
         
         self.setupValiditySellDropDown()
@@ -613,7 +609,7 @@ extension PortfolioStockSellVC {
                         if let payload = response["data"] as? Dictionary<String, Any> {
                             strongSelf.commissionValue = "\(payload["tradeCommission"] ?? "")"
                             
-                            strongSelf.lblCommissionDescSell.text = "Prospuh will charge $\(strongSelf.commissionValue) commission for every trade"
+                            strongSelf.lblCommissionDescSell.text = "projectName will charge $\(strongSelf.commissionValue) commission for every trade"
                         }
                     }
                     else if response["status"] as! Int == invalidTokenCode {

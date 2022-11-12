@@ -1,9 +1,3 @@
-//
-//  WatchlistCell.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 21/01/22.
-//
 
 import UIKit
 

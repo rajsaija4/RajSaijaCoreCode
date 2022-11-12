@@ -1,8 +1,8 @@
 //
 //  BankCell.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 07/04/22.
+//  companyName on 07/04/22.
 //
 
 import UIKit

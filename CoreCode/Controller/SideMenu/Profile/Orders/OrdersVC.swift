@@ -1,11 +1,5 @@
 //
-//  OrdersVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 30/12/21.
-//
-
-import UIKit
+//  import UIKit
 import SwiftyJSON
 
 class OrdersVC: BaseVC {

@@ -1,9 +1,5 @@
 //
 //  FractionalShareVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 31/01/22.
-//
 
 import UIKit
 import SwiftyJSON

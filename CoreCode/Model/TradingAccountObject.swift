@@ -1,8 +1,8 @@
 //
 //  TradingAccountObject.swift
-//  Prospuh
+//  projectName
 //
-//  Created by 21Twelve Interactive on 23/02/22.
+//  companyName on 23/02/22.
 //
 
 import Foundation

@@ -1,9 +1,3 @@
-//
-//  CreateNewPassVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 29/10/21.
-//
 
 import UIKit
 import SwiftyJSON

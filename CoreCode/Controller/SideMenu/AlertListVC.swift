@@ -1,9 +1,4 @@
 //
-//  AlertListVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 22/11/21.
-//
 
 import UIKit
 import SideMenuSwift

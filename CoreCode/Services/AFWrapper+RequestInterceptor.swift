@@ -2,7 +2,7 @@
 //  AFWrapper+RequestInterceptor.swift
 //  AFWrapper_5.0
 //
-//  Created by 21Twelve Interactive on 02/06/21.
+//  companyName on 02/06/21.
 //
 
 import Alamofire

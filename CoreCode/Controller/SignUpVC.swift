@@ -2,7 +2,7 @@
 //  SignUpVC.swift
 //  BYT
 //
-//  Created by 21Twelve Interactive on 11/10/21.
+//  companyName on 11/10/21.
 //
 
 import UIKit

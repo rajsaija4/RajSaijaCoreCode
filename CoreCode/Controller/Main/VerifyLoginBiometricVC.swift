@@ -1,9 +1,4 @@
 //
-//  VerifyLoginBiometricVC.swift
-//  Prospuh
-//
-//  Created by 21Twelve Interactive on 26/04/22.
-//
 
 import UIKit
 import LocalAuthentication
