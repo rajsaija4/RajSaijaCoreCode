@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E294058291F4D9E00E20D7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E294057291F4D9E00E20D7E /* AppDelegate.swift */; };
-		6E29405A291F4D9E00E20D7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E294059291F4D9E00E20D7E /* SceneDelegate.swift */; };
-		6E29405C291F4D9E00E20D7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E29405B291F4D9E00E20D7E /* ViewController.swift */; };
-		6E29405F291F4D9E00E20D7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E29405D291F4D9E00E20D7E /* Main.storyboard */; };
 		6E294061291F4D9F00E20D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E294060291F4D9F00E20D7E /* Assets.xcassets */; };
 		6E294064291F4D9F00E20D7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E294062291F4D9F00E20D7E /* LaunchScreen.storyboard */; };
 		6E29406F291F4D9F00E20D7E /* CoreCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E29406E291F4D9F00E20D7E /* CoreCodeTests.swift */; };
 		6E294079291F4D9F00E20D7E /* CoreCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E294078291F4D9F00E20D7E /* CoreCodeUITests.swift */; };
 		6E29407B291F4D9F00E20D7E /* CoreCodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E29407A291F4D9F00E20D7E /* CoreCodeUITestsLaunchTests.swift */; };
+		6E294088291F4DF400E20D7E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6E294087291F4DF400E20D7E /* Info.plist */; };
+		6E294096291F4E8400E20D7E /* Controller in Resources */ = {isa = PBXBuildFile; fileRef = 6E29408A291F4E8000E20D7E /* Controller */; };
+		6E294097291F4E8400E20D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E29408B291F4E8100E20D7E /* Assets.xcassets */; };
+		6E294098291F4E8400E20D7E /* Services in Resources */ = {isa = PBXBuildFile; fileRef = 6E29408C291F4E8100E20D7E /* Services */; };
+		6E294099291F4E8400E20D7E /* SocketIO in Resources */ = {isa = PBXBuildFile; fileRef = 6E29408D291F4E8100E20D7E /* SocketIO */; };
+		6E29409A291F4E8400E20D7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E29408E291F4E8200E20D7E /* AppDelegate.swift */; };
+		6E29409B291F4E8400E20D7E /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = 6E29408F291F4E8200E20D7E /* Fonts */; };
+		6E29409C291F4E8400E20D7E /* GIF in Resources */ = {isa = PBXBuildFile; fileRef = 6E294090291F4E8200E20D7E /* GIF */; };
+		6E29409D291F4E8400E20D7E /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 6E294091291F4E8300E20D7E /* Base.lproj */; };
+		6E29409E291F4E8400E20D7E /* Storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E294092291F4E8300E20D7E /* Storyboard */; };
+		6E29409F291F4E8400E20D7E /* View in Resources */ = {isa = PBXBuildFile; fileRef = 6E294093291F4E8300E20D7E /* View */; };
+		6E2940A0291F4E8400E20D7E /* Model in Resources */ = {isa = PBXBuildFile; fileRef = 6E294094291F4E8400E20D7E /* Model */; };
+		6E2940A1291F4E8400E20D7E /* Helper in Resources */ = {isa = PBXBuildFile; fileRef = 6E294095291F4E8400E20D7E /* Helper */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,18 +46,27 @@
 
 /* Begin PBXFileReference section */
 		6E294054291F4D9E00E20D7E /* CoreCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6E294057291F4D9E00E20D7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6E294059291F4D9E00E20D7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6E29405B291F4D9E00E20D7E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6E29405E291F4D9E00E20D7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6E294060291F4D9F00E20D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E294063291F4D9F00E20D7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6E294065291F4D9F00E20D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E29406A291F4D9F00E20D7E /* CoreCodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreCodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E29406E291F4D9F00E20D7E /* CoreCodeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreCodeTests.swift; sourceTree = "<group>"; };
 		6E294074291F4D9F00E20D7E /* CoreCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E294078291F4D9F00E20D7E /* CoreCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreCodeUITests.swift; sourceTree = "<group>"; };
 		6E29407A291F4D9F00E20D7E /* CoreCodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreCodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E294087291F4DF400E20D7E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E294089291F4E8000E20D7E /* CoreCode-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CoreCode-Bridging-Header.h"; sourceTree = "<group>"; };
+		6E29408A291F4E8000E20D7E /* Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Controller; sourceTree = "<group>"; };
+		6E29408B291F4E8100E20D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6E29408C291F4E8100E20D7E /* Services */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Services; sourceTree = "<group>"; };
+		6E29408D291F4E8100E20D7E /* SocketIO */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SocketIO; sourceTree = "<group>"; };
+		6E29408E291F4E8200E20D7E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6E29408F291F4E8200E20D7E /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fonts; sourceTree = "<group>"; };
+		6E294090291F4E8200E20D7E /* GIF */ = {isa = PBXFileReference; lastKnownFileType = folder; path = GIF; sourceTree = "<group>"; };
+		6E294091291F4E8300E20D7E /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
+		6E294092291F4E8300E20D7E /* Storyboard */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Storyboard; sourceTree = "<group>"; };
+		6E294093291F4E8300E20D7E /* View */ = {isa = PBXFileReference; lastKnownFileType = folder; path = View; sourceTree = "<group>"; };
+		6E294094291F4E8400E20D7E /* Model */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Model; sourceTree = "<group>"; };
+		6E294095291F4E8400E20D7E /* Helper */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Helper; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +117,22 @@
 		6E294056291F4D9E00E20D7E /* CoreCode */ = {
 			isa = PBXGroup;
 			children = (
-				6E294057291F4D9E00E20D7E /* AppDelegate.swift */,
-				6E294059291F4D9E00E20D7E /* SceneDelegate.swift */,
-				6E29405B291F4D9E00E20D7E /* ViewController.swift */,
-				6E29405D291F4D9E00E20D7E /* Main.storyboard */,
+				6E29408E291F4E8200E20D7E /* AppDelegate.swift */,
+				6E29408B291F4E8100E20D7E /* Assets.xcassets */,
+				6E294091291F4E8300E20D7E /* Base.lproj */,
+				6E29408A291F4E8000E20D7E /* Controller */,
+				6E29408F291F4E8200E20D7E /* Fonts */,
+				6E294090291F4E8200E20D7E /* GIF */,
+				6E294095291F4E8400E20D7E /* Helper */,
+				6E294094291F4E8400E20D7E /* Model */,
+				6E29408C291F4E8100E20D7E /* Services */,
+				6E29408D291F4E8100E20D7E /* SocketIO */,
+				6E294092291F4E8300E20D7E /* Storyboard */,
+				6E294093291F4E8300E20D7E /* View */,
 				6E294060291F4D9F00E20D7E /* Assets.xcassets */,
 				6E294062291F4D9F00E20D7E /* LaunchScreen.storyboard */,
-				6E294065291F4D9F00E20D7E /* Info.plist */,
+				6E294087291F4DF400E20D7E /* Info.plist */,
+				6E294089291F4E8000E20D7E /* CoreCode-Bridging-Header.h */,
 			);
 			path = CoreCode;
 			sourceTree = "<group>";
@@ -195,6 +222,7 @@
 				TargetAttributes = {
 					6E294053291F4D9E00E20D7E = {
 						CreatedOnToolsVersion = 14.1;
+						LastSwiftMigration = 1410;
 					};
 					6E294069291F4D9F00E20D7E = {
 						CreatedOnToolsVersion = 14.1;
@@ -231,9 +259,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E294088291F4DF400E20D7E /* Info.plist in Resources */,
+				6E29409C291F4E8400E20D7E /* GIF in Resources */,
+				6E294099291F4E8400E20D7E /* SocketIO in Resources */,
 				6E294064291F4D9F00E20D7E /* LaunchScreen.storyboard in Resources */,
+				6E2940A0291F4E8400E20D7E /* Model in Resources */,
+				6E2940A1291F4E8400E20D7E /* Helper in Resources */,
+				6E29409F291F4E8400E20D7E /* View in Resources */,
+				6E29409B291F4E8400E20D7E /* Fonts in Resources */,
 				6E294061291F4D9F00E20D7E /* Assets.xcassets in Resources */,
-				6E29405F291F4D9E00E20D7E /* Main.storyboard in Resources */,
+				6E29409D291F4E8400E20D7E /* Base.lproj in Resources */,
+				6E294096291F4E8400E20D7E /* Controller in Resources */,
+				6E294097291F4E8400E20D7E /* Assets.xcassets in Resources */,
+				6E294098291F4E8400E20D7E /* Services in Resources */,
+				6E29409E291F4E8400E20D7E /* Storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E29405C291F4D9E00E20D7E /* ViewController.swift in Sources */,
-				6E294058291F4D9E00E20D7E /* AppDelegate.swift in Sources */,
-				6E29405A291F4D9E00E20D7E /* SceneDelegate.swift in Sources */,
+				6E29409A291F4E8400E20D7E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,14 +334,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		6E29405D291F4D9E00E20D7E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6E29405E291F4D9E00E20D7E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		6E294062291F4D9F00E20D7E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -435,6 +464,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 25J55V4448;
@@ -453,6 +483,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.demo.raj.CoreCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CoreCode/CoreCode-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -463,6 +495,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 25J55V4448;
@@ -481,6 +514,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.demo.raj.CoreCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CoreCode/CoreCode-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
